@@ -1,4 +1,4 @@
-#!/bin/bash~/counttoofiftylol.sh
+#!/bin/bash
 sudo chmod 777 Count2Fifty
 for i in {1..50}
 do
